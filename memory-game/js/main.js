@@ -42,5 +42,10 @@ function flipCard(cardId) {
 flipCard(0);
 flipCard(2);
 
+function createBoard() {
+	for (let i = 0; i < cards.length; i++){
+}
+};
 
+let newListItem = document.createElement('img');
 
